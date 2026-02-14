@@ -1,0 +1,4 @@
+[submodule "rest-client"]
+	path = rest-client
+	url = https://github.com/jongwoncode/crypto-restapi.git
+	branch = main
